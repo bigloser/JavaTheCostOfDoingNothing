@@ -1,6 +1,6 @@
 #
 
-This code is to resurrect a presentation done by Sumit Shah at JavaOne several years ago.
+This code is to resurrect a presentation done by Dean Yu and Joshua Blatt at JavaOne several years ago.
 The title was something similiar to the cost of doing nothing, and reflected how much does 
 it cost to make a single JNI call.
 
